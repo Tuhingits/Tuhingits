@@ -15,8 +15,8 @@
 
 <!-- markdownlint-disable MD033 -->
 <p align="left">
-  <a href="tuhinhossain212209@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=White"/></a>
-  <a href="https://www.linkedin.com/in/tuhin-hossain-73a791157/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-#0072b1?style=for-the-badge&logo=Linkedin&logoColor=Blue"/></a>
+  <a href="tuhinhossain212209@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-Gmail-White?style=for-the-badge&logo=Gmail&logoColor=White"/></a>
+  <a href="https://www.linkedin.com/in/tuhin-hossain-73a791157/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-ea4aaa?style=for-the-badge&logo=Linkedin&logoColor=Blue"/></a>
 </p>
 <!-- markdownlint-enable MD033 -->
 
