@@ -9,8 +9,6 @@
 </p>
 
 
-
-
 💙 Connect With me
 
 <!-- markdownlint-disable MD033 -->
@@ -18,32 +16,13 @@
   <a href="tuhinhossain212209@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-Gmail-White?style=for-the-badge&logo=Gmail&logoColor=White"/></a>
   <a href="https://www.linkedin.com/in/tuhin-hossain-73a791157/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-ea4aaa?style=for-the-badge&logo=Linkedin&logoColor=Blue"/></a>
 </p>
-<!-- markdownlint-enable MD033 -->
 
-[☕ Buy me a coffee](https://ko-fi.com/jlawrence)
-
----
-
-Made with ❤️ and PHP
-
-<!-- markdownlint-disable MD033 -->
-
-<a href="https://heroku.com/"><img alt="Powered by Heroku" title="Powered by Heroku" src="https://img.shields.io/badge/-Powered%20by%20Heroku-6567a5?style=for-the-badge&logo=heroku&logoColor=white"/></a>
-
-<!-- markdownlint-enable MD033 -->
-
-This project uses [Twemoji](https://github.com/twitter/twemoji), published under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
-
-**Tuhingits/Tuhingits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 🔭 I’m currently working on Manual and Automation Testing
+- 🌱 I’m currently learning Cypress for advance automation testing
+- 💬 Ask me about  Manual testing,API testing,Performance testing and Automation testing
+- 📫 How to reach me: tuhinhossain212209@gmail.com
+
 
