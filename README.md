@@ -18,9 +18,7 @@
 </p>
 
 
-Here are some ideas to get you started:
-
-- 🔭 🔭 I’m currently working on Manual and Automation Testing
+- 🔭 I’m currently working on Manual and Automation Testing
 - 🌱 I’m currently learning Cypress for advance automation testing
 - 💬 Ask me about  Manual testing,API testing,Performance testing and Automation testing
 - 📫 How to reach me: tuhinhossain212209@gmail.com
