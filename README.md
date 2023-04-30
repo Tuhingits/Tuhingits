@@ -50,7 +50,7 @@ Currently, I'm working as a Freelance SQA engineer at Fiverr where I have comple
 
 Comfortable: `C` `python` `HTML` `CSS` `JavaScript` `Bootstrap` `manual testing` `API testing` `performance testing` `test case desing` `test case writing` `bug reporting`
 
-Tools: `Git, GitHub` `BitBucket` `CLI` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Trello Board` `jmeter``selenium`
+Tools: `Git, GitHub` `BitBucket` `CLI` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Trello Board` `jmeter` `selenium`
 
 
 ### :hammer_and_wrench: Languages and Tools :
