@@ -34,10 +34,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/tuhingit) 
 
-<div id="header" align="center">
-  <img style="width: 100%; height: auto;" src=""/>
-</div>
-
 <hr>
 
 
