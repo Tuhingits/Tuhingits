@@ -43,7 +43,7 @@
 
 ### 🐼 About Me :
 
-Currently, I'm working as a Freelance SQA engineer at Fiverr where I have over 7 different clients and more than 10 projects completed.
+Currently, I'm working as a Freelance SQA engineer at Fiverr where I have over 7 different clients and more than 10 projects completed. And Looking forward to working in an organization which can bring the best out of me and where I can perform with all my potential.
 
 
 ### 😎 Skills :
