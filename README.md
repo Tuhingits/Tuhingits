@@ -75,20 +75,6 @@ Tools: `Git, GitHub` `BitBucket` `CLI` `Browsers` `NPM` `Chrome Dev Tool` `Postm
   
 </div>
 <hr>
-<a href="https://drive.google.com/file/d/1i-h1LbFfnMgMk3GhFGzP2ipwkGU4JnxL/view?usp=share_link" style="text-decoration: none"  target="_blank">
+<a href="https://drive.google.com/file/d/1k3ZY1bBGPsxPuA5if_ASng-jM2bAkp72/view?usp=share_link" style="text-decoration: none"  target="_blank">
  <img src="https://i.ibb.co/SrqYy2L/btn.png" style="display:block;margin-top:20px;margin-left:auto;margin-right:auto;width:300px;max-width:80%;height:auto;" alt="dnld" border="0">
   </a>
-
-<hr>
-
-### 🔥 My GitHub Stats :
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marufalaslam&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="33%" height="100%" alt="Github STat"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=marufalaslam&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="35%" height="100%" alt="Github STat"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufalaslam&exclude_repo=wordpressTest&layout=compact&theme=cobalt&hide_border=true" width="25%" height="100%" alt="Github STat"/>
-</div>
-
-<hr>
-
-<br>
