@@ -43,7 +43,7 @@
 
 ### 🐼 About Me :
 
-Currently, I'm working as Software Engineer QA trainee and I am a Freelance QA engineer at Fiverr where I have over 7 different clients and more than 10 projects completed.
+Currently, I'm working as a Freelance SQA engineer at Fiverr where I have over 7 different clients and more than 10 projects completed.
 
 
 ### 😎 Skills :
