@@ -71,6 +71,6 @@ Tools: `Git, GitHub` `BitBucket` `CLI` `Browsers` `NPM` `Chrome Dev Tool` `Postm
   
 </div>
 <hr>
-<a href="https://drive.google.com/file/d/1k3ZY1bBGPsxPuA5if_ASng-jM2bAkp72/view?usp=share_link" style="text-decoration: none"  target="_blank">
+<a href="https://drive.google.com/file/d/1zEnaycMqVDFx9MzLuhxpQ51ieIhyMbHF/view?usp=sharing" style="text-decoration: none"  target="_blank">
  <img src="https://i.ibb.co/SrqYy2L/btn.png" style="display:block;margin-top:20px;margin-left:auto;margin-right:auto;width:300px;max-width:80%;height:auto;" alt="dnld" border="0">
   </a>
