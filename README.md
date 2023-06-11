@@ -32,7 +32,6 @@
 - 📫 How to reach me: tuhinhossain212209@gmail.com
 
 
-![Profile views](https://gpvc.arturio.dev/tuhingit) 
 
 <hr>
 
