@@ -42,7 +42,9 @@
 
 ### 🐼 About Me :
 
-Currently, I'm working as a Freelance SQA engineer at Fiverr where I have completed over 7 different clients and more than 10 projects completed. And Looking forward to working in an organization which can bring the best out of me and where I can perform with all my potential.
+At Continental Technologies currently I am working as a Jr. Software QA Engineer. Here my key responsibilities are Testing ERP projects for multiple clients as per their business logic For ensure the Software quality and makes the software more reliable and easy to use.
+
+I'm also working as a Freelance SQA engineer at Fiverr where I have completed over 9 different clients and more than 15 projects. And Looking forward to working in an organization which can bring the best out of me and where I can perform with all my potential.
 
 
 ### 😎 Skills :
