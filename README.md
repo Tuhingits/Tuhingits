@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=A Passionate SQA Trainee!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Jr. SQA Engineer!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 
@@ -70,6 +70,6 @@ Tools: `Git, GitHub` `BitBucket` `CLI` `Browsers` `NPM` `Chrome Dev Tool` `Postm
   
 </div>
 <hr>
-<a href="https://drive.google.com/file/d/1VYxoA94IAvVbnchfkrYCHOTrQjBysLCZ/view?usp=sharing" style="text-decoration: none"  target="_blank">
+<a href="https://drive.google.com/file/d/1fH-LMZ51Q7VAr2NrqoU6HEH5nu_Xw5OB/view?usp=sharing" style="text-decoration: none"  target="_blank">
  <img src="https://i.ibb.co/SrqYy2L/btn.png" style="display:block;margin-top:20px;margin-left:auto;margin-right:auto;width:300px;max-width:80%;height:auto;" alt="dnld" border="0">
   </a>
